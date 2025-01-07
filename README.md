@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">Welcome To Ethan_Cheung's Word</h2>
+<h2 align="center">Welcome To Ethan_Cheung's World</h2>
 
 <p align="center">你也在为拯救世界而烦恼嘛</p>
 
